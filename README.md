@@ -20,7 +20,7 @@ Make sure to have Git LFS installed:
 
     git lfs install
 
-Download the checkpoints and models from:
+Download the data (labeled test, val, and train volume) and the trained models (checkpoints) from:
 
     git clone https://huggingface.co/bwittmann/OCTA-unet
 
